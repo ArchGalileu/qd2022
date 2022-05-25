@@ -4,7 +4,7 @@ date: 2020-12-01
 image:
   filename: featured.jpg
   caption: Featured image
-  focal_point: Center
+  focal_point: center
   preview_only: true
 ---
 
