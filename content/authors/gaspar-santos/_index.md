@@ -8,7 +8,7 @@ organizations:
   - name: Quarteto Douro
     url: www.quartetodouro.eu
 email: propostas@gasparsantos.eu
-superuser: true
+superuser: false
 user_groups:
   - Quarteto Douro
 ---
