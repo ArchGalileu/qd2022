@@ -5,7 +5,7 @@ image:
   filename: featured.jpg
   caption: Featured image
   focal_point: center
-  preview_only: true
+  preview_only: false
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
