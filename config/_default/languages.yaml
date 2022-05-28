@@ -6,17 +6,17 @@
 pt:
   languageCode: pt
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/pt
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
+en:
+  languageCode: en
+  contentDir: content/en
 #  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  params:
+    description: since 2008
+  menu:
+    main:
+      - name: 传
+        url: '#about'
+        weight: 1
